@@ -1,31 +1,4 @@
-/*body{
-    font-family: Arial;
-    background: #121212;
-    color:white;
-    display: flex;
-    justify-content: center;
-    margin-top: 50px;
-}
-.container{
-    width: 400px;
-}
 
-input, select, button{
-    width: 100%;
-    padding: 10px;
-    margin-top: 10px;
-}
-
-button{
-    background: #00adb5;
-    color: white;
-    border: none;
-    cursor: pointer;
-}
-
-li{
-    margin-top: 10px;
-}*/
 *{
   margin: 0;
   padding: 0;
